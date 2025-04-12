@@ -3,24 +3,17 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%234ea94b.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PDF](https://img.shields.io/badge/PDF-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![MIT License](https://img.shields.io/badge/license-MIT-blue)
 
 ## 📝 Description
-A Python application (`script.py`) that generates professional CVs in PDF format with a modern Tkinter GUI interface.
+An automated app that generates personalized resumes in PDF format with an embedded QR code linking to the user's linkedin profile.
 
 ```bash
 Project Structure:
 script.py            # Main application file
-requirements.txt     # Dependencies
-assets/              # Optional folder for screenshots
+arial/font/          # Dependencies
 ```
 
 ## 🚀 Quick Start
-
-### Installation
-```bash
-pip install -r requirements.txt
-```
 
 ### Requirements
 ```text
@@ -40,7 +33,8 @@ pypng>=0.0.20
 5. **About Me**
 
 ## 💻 Usage
-Run the application:
+1.Install the fonts
+2.Run the application:
 ```bash
 python script.py
 ```
@@ -77,10 +71,5 @@ Education: PhD: Stanford University
 About Me: Passionate developer...
 ```
 
-### Key Features:
-1. **Complete Markdown Formatting** - Headers, code blocks, lists
-2. **Visual Elements** - Badges, screenshot reference
-3. **Structured Sections** - Clear hierarchy with emoji icons
-4. **Ready-to-Use** - Includes installation and usage examples
-5. **Technical Details** - Configuration options and requirements
-
+## 📋 CV Output with QR Code (Demo)
+![Image](https://github.com/user-attachments/assets/714357de-43d2-4b7e-92f6-8763cb1b36f9)
