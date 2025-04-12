@@ -2,7 +2,9 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%234ea94b.svg?style=for-the-badge&logo=python&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/My_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![PDF](https://img.shields.io/badge/PDF-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
 
 ## 📝 Description
 An automated app that generates personalized resumes in PDF format, embedding an auto-generated QR code within the resume that links directly to the user's LinkedIn profile or website.
