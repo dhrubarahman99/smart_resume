@@ -23,7 +23,11 @@ pypng>=0.0.20
 ```
 
 ## 🖥️ GUI Interface
-![Image](https://github.com/user-attachments/assets/a799267c-c787-40a3-8ded-0c1cabf43667)
+![Image](https://github.com/user-attachments/assets/ec7e263c-3999-4c0f-aced-6db053d08387)
+![Image](https://github.com/user-attachments/assets/3490da4c-97eb-422d-92ca-53b286845102)
+![Image](https://github.com/user-attachments/assets/e2239bd4-2b84-4a57-ae92-743831b41155)
+![Image](https://github.com/user-attachments/assets/0fa33e07-5eb5-4012-b9aa-579d6aa037b1)
+![Image](https://github.com/user-attachments/assets/6cf36b06-8ca9-41c6-a5ca-ef7478d43f41)
 
 ### Sections:
 1. **Personal Information**
