@@ -5,7 +5,7 @@
 ![PDF](https://img.shields.io/badge/PDF-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 ## 📝 Description
-An automated app that generates personalized resumes in PDF format with an embedded QR code linking to the user's linkedin profile.
+An automated app that generates personalized resumes in PDF format, embedding an auto-generated QR code within the resume that links directly to the user's LinkedIn profile or website.
 
 ```bash
 Project Structure:
