@@ -33,8 +33,8 @@ pypng>=0.0.20
 5. **About Me**
 
 ## 💻 Usage
-1.Install the fonts
-2.Run the application:
+1. Install the fonts
+2. Run the python file
 ```bash
 python script.py
 ```
